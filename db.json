@@ -81,6 +81,42 @@
                         "birthYear": 1987,
                         "birthMonth": 1,
                         "birthDay": 26
+                    },
+                    "payMentDetail": {
+                        "settlementMethod": "クレジットカード"
+                    }
+                },
+                {
+                    "order_id": 12,
+                    "unitDemand": 4,
+                    "orderDetail": {
+                        "orderNumber": "379923-20210709-00092843",
+                        "orderDatetime": "2021-07-09T01:10:30+0900",
+                        "totalPrice": 16188,
+                        "requestPrice": 15710,
+                        "memo": "日本発送 數商處 JW対応"
+                    },
+                    "ordererDetail": {
+                        "zipCode1": "222",
+                        "zipCode2": "0001",
+                        "prefecture": "神奈川県",
+                        "city": "横浜市港北区",
+                        "subAddress": "樽町2-7-28 アールブラン綱島305",
+                        "familyName": "佐々木",
+                        "firstName": "唯",
+                        "familyNameKana": "ササキ",
+                        "firstNameKana": "ユイ",
+                        "phoneNumber1": "090",
+                        "phoneNumber2": "5562",
+                        "phoneNumber3": "3736",
+                        "emailAddress": "e9e50b9fbe6fc004db4f6d7d15808f09s1@pc.fw.rakuten.ne.jp",
+                        "sex": "女",
+                        "birthYear": 1987,
+                        "birthMonth": 1,
+                        "birthDay": 26
+                    },
+                    "payMentDetail": {
+                        "settlementMethod": "クレジットカード"
                     }
                 }
             ],
