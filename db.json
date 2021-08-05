@@ -1,0 +1,95 @@
+{
+    "unfinished": {
+        "quantityCount": {
+            "newOrderItemsQuantity": 8,
+            "newOrdersQuantity": 3,
+            "unfinishedOrderItemsQuantity": 42,
+            "unfinishedOrdersQuantity": 16
+        },
+        "unfinishedOrderItems": [
+            {
+                "mappingUnit": {
+                    "sku_jp": "hasegawa-35",
+                    "sku_tw": "hasegawa-35",
+                    "mappingUnit_jp": 50.0,
+                    "mappingUnit_tw": 100.0,
+                    "demandTotal": 50,
+                    "demandNew": 5,
+                    "jpShopItem": {
+                        "shopid": 39,
+                        "itemName": "大甲台湾まぜめん ごまダレ/ピリ辛/マーラー/台湾ねぎ/オリジナル/沙茶 全六種 袋麺 ノンフライ インスタント麺 麻辣 麻醤 油葱 フライドエシャロット 厳選素材（4袋×4パック/全16袋)【台湾直送】",
+                        "base_sku": "",
+                        "sku_jp": "hasegawa-35",
+                        "unitPrice": 2600,
+                        "deliverFrom": 1,
+                        "baseRate": 1.5,
+                        "exchangeRate": 7.0,
+                        "itemid": 64,
+                        "created_datetime": "2021-07-16T06:01:42.281376",
+                        "updated_datetime": "2021-07-16T06:01:42.281500"
+                    },
+                    "twShopItem": {
+                        "shopid": 39,
+                        "itemName": "大甲乾麵-4袋(16包) ★美國部落客排名八的台灣乾麵❤讓你一吃就愛上 ❤",
+                        "base_sku": "",
+                        "sku_tw": "hasegawa-35",
+                        "unitPrice": 300,
+                        "barCode": "4537832",
+                        "itemid": 74,
+                        "created_datetime": "2021-07-16T06:01:41.542555",
+                        "updated_datetime": "2021-07-16T06:01:41.542747"
+                    },
+                    "created_datetime": "2021-07-16T06:01:42.288087",
+                    "updated_datetime": "2021-07-16T06:01:42.288216"
+                },
+                "shop": {
+                    "name": "泰山 taisuntaiwan",
+                    "name_zh": null,
+                    "shop_url_tw": null,
+                    "shop_url_jp": null,
+                    "shopid": 39
+                }
+            }
+        ],
+        "unfinishedOrders": {
+            "orders": [
+                {
+                    "order_id": 12,
+                    "unitDemand": 4,
+                    "orderDetail": {
+                        "orderNumber": "379923-20210709-00092843",
+                        "orderDatetime": "2021-07-09T01:10:30+0900",
+                        "totalPrice": 16188,
+                        "requestPrice": 15710,
+                        "memo": "日本発送 數商處 JW対応"
+                    },
+                    "ordererDetail": {
+                        "zipCode1": "222",
+                        "zipCode2": "0001",
+                        "prefecture": "神奈川県",
+                        "city": "横浜市港北区",
+                        "subAddress": "樽町2-7-28 アールブラン綱島305",
+                        "familyName": "佐々木",
+                        "firstName": "唯",
+                        "familyNameKana": "ササキ",
+                        "firstNameKana": "ユイ",
+                        "phoneNumber1": "090",
+                        "phoneNumber2": "5562",
+                        "phoneNumber3": "3736",
+                        "emailAddress": "e9e50b9fbe6fc004db4f6d7d15808f09s1@pc.fw.rakuten.ne.jp",
+                        "sex": "女",
+                        "birthYear": 1987,
+                        "birthMonth": 1,
+                        "birthDay": 26
+                    }
+                }
+            ],
+            "PaginationResponseModel": {
+                "responseRecordsAmount": 1,
+                "responsePage": 1,
+                "recordPerPage": 50,
+                "totalPages": 1
+            }
+        }
+    }
+}
